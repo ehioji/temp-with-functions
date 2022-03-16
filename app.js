@@ -32,3 +32,5 @@ function calcTemp (tempUnit, temperature) {
 }
 
 calcTemp(getTempUnit(askName()), getTemperature());
+
+// testing comments for remote push v2.3346834
